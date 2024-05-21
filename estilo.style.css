@@ -32,7 +32,7 @@ header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
-    font-size: 7vw; 
+    font-size: 3vw; 
 }
 
 header > p {
@@ -53,7 +53,7 @@ header a:hover, footer a:hover {
 section {
     padding-top: 5vh;
     padding-bottom: 5vh;
-    padding-left: 150px;
+    padding-left: 80px;
     line-height: 2em;
     font-family: var(--fonte3);
     font-size: 3.5vw;
@@ -100,5 +100,5 @@ footer {
     color: white;
     text-align: center;
     padding: 50px;
-    font-size: 3.5em;
+    font-size: 2vw;
 }
