@@ -32,12 +32,12 @@ header > h1 {
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
-    font-size: 3vw; 
+    font-size: 4vw; 
 }
 
 header > p {
     padding-bottom: 50px;
-    font-size: 4em;
+    font-size: 2em;
 }
 
 header a, footer a {
@@ -100,5 +100,5 @@ footer {
     color: white;
     text-align: center;
     padding: 50px;
-    font-size: 2vw;
+    font-size: 2em;
 }
